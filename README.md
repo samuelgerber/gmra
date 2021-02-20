@@ -5,5 +5,5 @@ Geomteric Multiresolution Analysis implementation in C++ with an R package front
 
 ```R
 library(devtools)
-devtools::install("samuelgerber/gmra")
+devtools::install_github("samuelgerber/gmra")
 ```
